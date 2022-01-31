@@ -5,8 +5,7 @@ mengdit file
 
 
 detail hari ini
-
-
+hari ini saya belajar multi brances
 pelajaran episode 3
 
 mengubah struktur data
