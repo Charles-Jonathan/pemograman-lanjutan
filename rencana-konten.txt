@@ -5,8 +5,7 @@ rencana baru konten belajar git
 
 
 detail hari ini
-
-
+hari ini saya belajar multi brances
 pelajaran episode 3
 
 mengubah struktur data
