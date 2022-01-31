@@ -1,12 +1,5 @@
 rencana baru konten belajar git
-
-
-
-
-
 detail hari ini
-
-
 pelajaran episode 3
-
 mengubah struktur data
+merapihkan data
